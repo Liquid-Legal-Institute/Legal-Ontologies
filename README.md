@@ -1,4 +1,4 @@
-# Legal Ontologies, Data Schemes, and Knowledge Graphs
+# Legal Ontologies, and Knowledge Graphs
 [![LTA](https://img.shields.io/badge/CLP-Ecosystem-blue)](https://github.com/Liquid-Legal-Institute/Common-Legal-Platform)
 [![LTA](https://img.shields.io/badge/CLP-Code-red)](https://github.com/Liquid-Legal-Institute/Common-Legal-Platform)
 [![LTA](https://img.shields.io/badge/CLP-Community-orange)](https://github.com/Liquid-Legal-Institute/Common-Legal-Platform)
