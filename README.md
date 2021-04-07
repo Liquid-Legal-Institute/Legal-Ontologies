@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-A list of selected resources, methods, and tools dedicated to legal data schemes and ontologies.
+A list of selected resources, methods, and tools dedicated to legal ontologies, data schemes, and knowledge graphs.
 
 
 ![Logo](/images/bgb_network.png)
