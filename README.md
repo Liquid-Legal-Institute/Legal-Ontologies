@@ -8,7 +8,7 @@
 A list of selected resources, methods, and tools dedicated to legal data schemes and ontologies.
 
 
-![Logo](/images/josefina-di-battista-hB25vJNTnNQ-unsplash.jpg)
+![Logo](/images/josefina-di-battista-hB25vJNTnNQ-unsplash.png)
 
 _Please read the [contribution guidelines](contributing.md) before contributing. Please add a resource by raising a [pull request](https://github.com/Liquid-Legal-Institute/Legal-Ontologies/pulls). We also seek for discussion and proposal of new ideas (including additional content sections) as [issues](https://github.com/Liquid-Legal-Institute/Legal-Ontologies/issues)._
 
