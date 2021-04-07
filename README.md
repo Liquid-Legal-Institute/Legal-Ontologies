@@ -30,7 +30,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Methods
 [Back to Top](#contents)
-[issues](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics/issues)
 
 ## Libraries
 [Back to Top](#contents)
