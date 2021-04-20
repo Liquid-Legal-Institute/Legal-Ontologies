@@ -39,7 +39,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Awesome Ontologies for Digital Humanities](https://github.com/CLARIAH/awesome-humanities-ontologies)
 - [Awesome Semantic Web: A curated list of various semantic web and linked data resources](https://github.com/semantalytics/awesome-semantic-web)
 - [Another Awesome Semantic Web: A curated list of various semantic web and linked data resources](https://github.com/jbenner-radham/awesome-semantic-web)
-
 - [European Union - Vocabularies](https://op.europa.eu/en/web/eu-vocabularies/home)
 - [Akoma Ntoso for European Union](https://op.europa.eu/en/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/akn4eu)
 - [United Nations System Document Ontology (UNDO)](https://unsceb-hlcm.github.io/onto-undo/index.html)
@@ -53,7 +52,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Legal Ontology Learning](https://github.com/sunghun9636/Legal-Ontology-Learning)
 - [CopyrightOnto - Copyright Ontology](https://github.com/rhizomik/copyrightonto)
 - [Legal Ontologies](https://github.com/jslin/ontoligies)
-
 - [Annotation guidelines for Legal Entity Recognition (Germany)](https://github.com/elenanereiss/Legal-Entity-Recognition/blob/master/docs/Annotationsrichtlinien.pdf)
 - [Semantic Types of Legal Norms](https://wwwmatthes.in.tum.de/file/18x0ledera9rh/Sebis-Public-Website/-/Semantic-Types-of-Legal-Norms-in-German-Laws-Classification-and-Analysis-Using-Local-Linear-Explanations/Wa18c.pdf)
 - [Annotation Guidelines for Sentence Boundary Detection in Caselaw (US)](https://github.com/jsavelka/sbd_adjudicatory_dec/blob/master/LLT_sentence_annotation_protocol.md)
