@@ -18,7 +18,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Methods](#methods)
 * [Libraries](#libraries)
 * [Ontologies](#ontologies)
-* [Data Schemes](#data-schemes)
 * [Datasets and Data](#datasets-and-data)
 * [Ontology Modeling and Development Tools](#ontology-modeling-and-development-tools)
 * [Research Groups and Labs](#research-groups-and-labs)
@@ -37,20 +36,32 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Ontologies
 [Back to Top](#contents)
 
+- [Awesome Ontologies for Digital Humanities](https://github.com/CLARIAH/awesome-humanities-ontologies)
+- [Awesome Semantic Web: A curated list of various semantic web and linked data resources](https://github.com/semantalytics/awesome-semantic-web)
+- [Another Awesome Semantic Web: A curated list of various semantic web and linked data resources](https://github.com/jbenner-radham/awesome-semantic-web)
+
+- [European Union - Vocabularies](https://op.europa.eu/en/web/eu-vocabularies/home)
+- [Akoma Ntoso for European Union](https://op.europa.eu/en/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/akn4eu)
+- [United Nations System Document Ontology (UNDO)](https://unsceb-hlcm.github.io/onto-undo/index.html)
+- [ALLOT: an ontology based to describe entities referenced in legal documents](https://github.com/essepuntato/allot)
+- [DOLCE: Descriptive Ontology for Linguistic and Cognitive Engineering](http://www.ontologydesignpatterns.org/ont/dul/DUL.owl)
+- [Overview of Legal Ontologies](https://lynx-project.eu/data2/reference-ontologies)
+- [Legal Knowledge Graph Ontology](https://lynx-project.eu/doc/lkg/)
+- [LKIF core legal ontology is a library of ontologies relevant for the legal domain](https://github.com/RinkeHoekstra/lkif-core)
+- [Common Core Ontologies](https://github.com/CommonCoreOntology/CommonCoreOntologies)
+- [Legal Ontology Population for MIREL Project](https://github.com/PLN-FaMAF/legal-ontology-population)
+- [Legal Ontology Learning](https://github.com/sunghun9636/Legal-Ontology-Learning)
+- [CopyrightOnto - Copyright Ontology](https://github.com/rhizomik/copyrightonto)
+- [Legal Ontologies](https://github.com/jslin/ontoligies)
+
 - [Annotation guidelines for Legal Entity Recognition (Germany)](https://github.com/elenanereiss/Legal-Entity-Recognition/blob/master/docs/Annotationsrichtlinien.pdf)
 - [Semantic Types of Legal Norms](https://wwwmatthes.in.tum.de/file/18x0ledera9rh/Sebis-Public-Website/-/Semantic-Types-of-Legal-Norms-in-German-Laws-Classification-and-Analysis-Using-Local-Linear-Explanations/Wa18c.pdf)
 - [Annotation Guidelines for Sentence Boundary Detection in Caselaw (US)](https://github.com/jsavelka/sbd_adjudicatory_dec/blob/master/LLT_sentence_annotation_protocol.md)
 - [Annotation Guidelines for Sentence Value in Statutory Interpretation (US)](https://github.com/jsavelka/statutory_interpretation/blob/master/annotation_guidelines_v2.pdf)
-- [SALI: Modern Legal Industry Standards](https://www.sali.org/)
-
-## Data Schemes
-[Back to Top](#contents)
 
 ## Datasets and Data
 [Back to Top](#contents)
 - [see Legal Text Analytics](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics)
-
-
 
 ## Ontology Modeling and Development Tools
 [Back to Top](#contents)
@@ -58,10 +69,10 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Research Groups and Labs
 [Back to Top](#contents)
-
+- [SALI: Modern Legal Industry Standards](https://www.sali.org/)
+- 
 ## Tutorials
 [Back to Top](#contents)
-
 
 ## Credits
 [Back to Top](#contents)
