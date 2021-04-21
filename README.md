@@ -26,6 +26,16 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Selected Tasks and Use Cases
 [Back to Top](#contents)
 
+- [Ontology Learning](https://en.wikipedia.org/wiki/Ontology_learning)
+- [Domain terminology extraction](https://en.wikipedia.org/wiki/Ontology_learning#Domain_terminology_extraction)
+- [Concept discovery](https://en.wikipedia.org/wiki/Ontology_learning#Concept_discovery)
+- [Concept hierarchy derivation](https://en.wikipedia.org/wiki/Ontology_learning#Concept_hierarchy_derivation)
+- [Learning of non-taxonomic relations](https://en.wikipedia.org/wiki/Ontology_learning#Learning_of_non-taxonomic_relations)
+- [Rule discovery](https://en.wikipedia.org/wiki/Ontology_learning#Rule_discovery)
+- [Ontology population](https://en.wikipedia.org/wiki/Ontology_learning#Ontology_population)
+- [Concept hierarchy extension](https://en.wikipedia.org/wiki/Ontology_learning#Concept_hierarchy_extension)
+- [Frame and Event detection](https://en.wikipedia.org/wiki/Ontology_learning#Frame_and_Event_detection)
+
 ## Methods and Libraries
 [Back to Top](#contents)
 
@@ -42,16 +52,18 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [European Union - EUropean Research Information Ontology](https://op.europa.eu/en/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/eurio)
 - [Akoma Ntoso for European Union](https://op.europa.eu/en/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/akn4eu)
 - [United Nations System Document Ontology (UNDO)](https://unsceb-hlcm.github.io/onto-undo/index.html)
+- [Book Interchange Tag Set: JATS Extension](https://jats.nlm.nih.gov/extensions/bits/)
 - [ALLOT: an ontology based to describe entities referenced in legal documents](https://github.com/essepuntato/allot)
 - [DOLCE: Descriptive Ontology for Linguistic and Cognitive Engineering](http://www.ontologydesignpatterns.org/ont/dul/DUL.owl)
 - [Overview of Legal Ontologies](https://lynx-project.eu/data2/reference-ontologies)
 - [Legal Knowledge Graph Ontology](https://lynx-project.eu/doc/lkg/)
-- [LKIF core legal ontology is a library of ontologies relevant for the legal domain](https://github.com/RinkeHoekstra/lkif-core)
+- [LKIF Core: Legal Knowledge Interchange Format Core](https://github.com/RinkeHoekstra/lkif-core)
 - [Common Core Ontologies](https://github.com/CommonCoreOntology/CommonCoreOntologies)
 - [Legal Ontology Population for MIREL Project](https://github.com/PLN-FaMAF/legal-ontology-population)
 - [Legal Ontology Learning](https://github.com/sunghun9636/Legal-Ontology-Learning)
 - [CopyrightOnto - Copyright Ontology](https://github.com/rhizomik/copyrightonto)
 - [Legal Ontologies](https://github.com/jslin/ontoligies)
+- [Real Estate Core](https://www.realestatecore.io/download)
 
 
 ## Datasets and Data
@@ -75,9 +87,13 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 [Back to Top](#contents)
 - [SALI: Modern Legal Industry Standards](https://www.sali.org/)
 - [noslegal: open source legal for all of us](https://www.noslegal.org/)
+- [Ontology Design Patterns](http://ontologydesignpatterns.org/wiki/Ontology_Design_Patterns_._org_%28ODP%29)
 
 ## Tutorials
 [Back to Top](#contents)
+
+- [Ontology Development 101: A Guide to Creating Your First Ontology](https://protege.stanford.edu/publications/ontology_development/ontology101.pdf)
+- [Modular Ontology Modeling: A Tutorial](https://daselab.cs.ksu.edu/publications/modular-ontology-modeling-tutorial), Download [LINK](https://daselab.cs.ksu.edu/sites/default/files/2020-mom-tutorial.pdf)
 
 ## Credits
 [Back to Top](#contents)
