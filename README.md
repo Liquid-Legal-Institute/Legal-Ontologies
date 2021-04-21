@@ -15,8 +15,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Contents
 
 * [Selected Tasks and Use Cases](#selected-tasks-and-use-cases)
-* [Methods](#methods)
-* [Libraries](#libraries)
+* [Methods and Libraries](#methods-and-libraries)
 * [Ontologies](#ontologies)
 * [Datasets and Data](#datasets-and-data)
 * [Ontology Modeling and Development Tools](#ontology-modeling-and-development-tools)
@@ -27,10 +26,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Selected Tasks and Use Cases
 [Back to Top](#contents)
 
-## Methods
-[Back to Top](#contents)
-
-## Libraries
+## Methods and Libraries
 [Back to Top](#contents)
 
 ## Ontologies
@@ -40,6 +36,10 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Awesome Semantic Web: A curated list of various semantic web and linked data resources](https://github.com/semantalytics/awesome-semantic-web)
 - [Another Awesome Semantic Web: A curated list of various semantic web and linked data resources](https://github.com/jbenner-radham/awesome-semantic-web)
 - [European Union - Vocabularies](https://op.europa.eu/en/web/eu-vocabularies/home)
+- [European Union - Common Data Models](https://op.europa.eu/en/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/cdm)
+- [European Union - EU Budget Vocabulary](https://op.europa.eu/en/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/budget-ontology)
+- [European Union - European Legislation Identifier](https://op.europa.eu/en/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/eli)
+- [European Union - EUropean Research Information Ontology](https://op.europa.eu/en/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/eurio)
 - [Akoma Ntoso for European Union](https://op.europa.eu/en/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/akn4eu)
 - [United Nations System Document Ontology (UNDO)](https://unsceb-hlcm.github.io/onto-undo/index.html)
 - [ALLOT: an ontology based to describe entities referenced in legal documents](https://github.com/essepuntato/allot)
@@ -52,23 +52,30 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Legal Ontology Learning](https://github.com/sunghun9636/Legal-Ontology-Learning)
 - [CopyrightOnto - Copyright Ontology](https://github.com/rhizomik/copyrightonto)
 - [Legal Ontologies](https://github.com/jslin/ontoligies)
+
+
+## Datasets and Data
+[Back to Top](#contents)
+- [see Legal Text Analytics](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics)
 - [Annotation guidelines for Legal Entity Recognition (Germany)](https://github.com/elenanereiss/Legal-Entity-Recognition/blob/master/docs/Annotationsrichtlinien.pdf)
 - [Semantic Types of Legal Norms](https://wwwmatthes.in.tum.de/file/18x0ledera9rh/Sebis-Public-Website/-/Semantic-Types-of-Legal-Norms-in-German-Laws-Classification-and-Analysis-Using-Local-Linear-Explanations/Wa18c.pdf)
 - [Annotation Guidelines for Sentence Boundary Detection in Caselaw (US)](https://github.com/jsavelka/sbd_adjudicatory_dec/blob/master/LLT_sentence_annotation_protocol.md)
 - [Annotation Guidelines for Sentence Value in Statutory Interpretation (US)](https://github.com/jsavelka/statutory_interpretation/blob/master/annotation_guidelines_v2.pdf)
 
-## Datasets and Data
-[Back to Top](#contents)
-- [see Legal Text Analytics](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics)
-
 ## Ontology Modeling and Development Tools
 [Back to Top](#contents)
 
+- [W3: Ontology Editors](https://www.w3.org/wiki/Ontology_editors)
+- [Protégé](https://protege.stanford.edu/) 
+- [Fluent Editor](https://www.cognitum.eu/Semantics/FluentEditor/) 
+- [OntoStudio](https://www.semafora-systems.com/ontobroker-and-ontostudio-x) (formerly OntoEdit) 
+- [OWLGrEd](http://owlgred.lumii.lv/)
 
 ## Research Groups and Labs
 [Back to Top](#contents)
 - [SALI: Modern Legal Industry Standards](https://www.sali.org/)
-- 
+- [noslegal: open source legal for all of us](https://www.noslegal.org/)
+
 ## Tutorials
 [Back to Top](#contents)
 
