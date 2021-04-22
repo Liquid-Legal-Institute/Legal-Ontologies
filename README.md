@@ -45,11 +45,15 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Awesome Ontologies for Digital Humanities](https://github.com/CLARIAH/awesome-humanities-ontologies)
 - [Awesome Semantic Web: A curated list of various semantic web and linked data resources](https://github.com/semantalytics/awesome-semantic-web)
 - [Another Awesome Semantic Web: A curated list of various semantic web and linked data resources](https://github.com/jbenner-radham/awesome-semantic-web)
+- [European Union - Data Structures and Standards used at the Publications Office](https://op.europa.eu/en/web/eu-vocabularies/op-standards)
 - [European Union - Vocabularies](https://op.europa.eu/en/web/eu-vocabularies/home)
 - [European Union - Common Data Models](https://op.europa.eu/en/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/cdm)
 - [European Union - EU Budget Vocabulary](https://op.europa.eu/en/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/budget-ontology)
 - [European Union - European Legislation Identifier](https://op.europa.eu/en/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/eli)
-- [European Union - EUropean Research Information Ontology](https://op.europa.eu/en/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/eurio)
+- [European Union - European Research Information Ontology](https://op.europa.eu/en/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/eurio)
+- [European Union - Official Journal Electronic Exchange Protocol](https://op.europa.eu/de/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/ojeep)
+- [European Union - Digital Europa Thesaurus](https://op.europa.eu/de/web/eu-vocabularies/det)
+- [European Union - eProcurement](https://op.europa.eu/de/web/eu-vocabularies/e-procurement)
 - [Akoma Ntoso for European Union](https://op.europa.eu/en/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/akn4eu)
 - [United Nations System Document Ontology (UNDO)](https://unsceb-hlcm.github.io/onto-undo/index.html)
 - [Book Interchange Tag Set: JATS Extension](https://jats.nlm.nih.gov/extensions/bits/)
@@ -85,9 +89,11 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Research Groups and Labs
 [Back to Top](#contents)
+
 - [SALI: Modern Legal Industry Standards](https://www.sali.org/)
 - [noslegal: open source legal for all of us](https://www.noslegal.org/)
 - [Ontology Design Patterns](http://ontologydesignpatterns.org/wiki/Ontology_Design_Patterns_._org_%28ODP%29)
+- [European Union - Semantic Interoperability Community (SEMIC)](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/about)
 
 ## Tutorials
 [Back to Top](#contents)
