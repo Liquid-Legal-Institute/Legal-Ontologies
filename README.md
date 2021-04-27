@@ -68,6 +68,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [CopyrightOnto - Copyright Ontology](https://github.com/rhizomik/copyrightonto)
 - [Legal Ontologies](https://github.com/jslin/ontoligies)
 - [Real Estate Core](https://www.realestatecore.io/download)
+- [Legal Document ML](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=legaldocml)
+- [Legal Rule ML](http://docs.oasis-open.org/legalruleml/legalruleml-core-spec/v1.0/legalruleml-core-spec-v1.0.html)
 
 
 ## Datasets and Data
