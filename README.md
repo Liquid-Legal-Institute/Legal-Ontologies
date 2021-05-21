@@ -42,6 +42,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Ontologies
 [Back to Top](#contents)
 
+- [Awesome ontology](https://github.com/ozekik/awesome-ontology)
 - [Awesome Ontologies for Digital Humanities](https://github.com/CLARIAH/awesome-humanities-ontologies)
 - [Awesome Semantic Web: A curated list of various semantic web and linked data resources](https://github.com/semantalytics/awesome-semantic-web)
 - [Another Awesome Semantic Web: A curated list of various semantic web and linked data resources](https://github.com/jbenner-radham/awesome-semantic-web)
@@ -70,7 +71,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Real Estate Core](https://www.realestatecore.io/download)
 - [Legal Document ML](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=legaldocml)
 - [Legal Rule ML](http://docs.oasis-open.org/legalruleml/legalruleml-core-spec/v1.0/legalruleml-core-spec-v1.0.html)
-
+- [Public Contracts Ontology](https://github.com/opendatacz/public-contracts-ontology)
 
 ## Datasets and Data
 [Back to Top](#contents)
@@ -102,6 +103,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 - [Ontology Development 101: A Guide to Creating Your First Ontology](https://protege.stanford.edu/publications/ontology_development/ontology101.pdf)
 - [Modular Ontology Modeling: A Tutorial](https://daselab.cs.ksu.edu/publications/modular-ontology-modeling-tutorial), Download [LINK](https://daselab.cs.ksu.edu/sites/default/files/2020-mom-tutorial.pdf)
+
 
 ## Credits
 [Back to Top](#contents)
