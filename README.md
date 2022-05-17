@@ -75,6 +75,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [UK Parliament Ontologies](https://ukparliament.github.io/ontologies/) (incl. agency, business item, contact point, contribution, description, election, formal body, formal body affiliation, government organization, house membership, laying, legislation, making available, parliamentary bloc, peerage, petition, place, procedure, procedure step annotation, publisher, question and answer, record, standing order, submission, tabling, time period, treaty, written statement ontologies)
 - [good relations](http://www.heppnetz.de/ontologies/goodrelations/) not strictly legal, but covering transactions and therefore potentially helpful: ontology covering product, price, store, and company data
 - [ISDA International Swaps and Derivatives Association Taxonomy v2](https://www.isda.org/2019/09/04/isda-taxonomy-2-0-finalized/)
+- [UTBMS](https://utbms.com/) (the Uniform Task Based Management System) is a series of codes used to classify legal services performed by a legal vendor in an electronic invoice submission
 
 ## Datasets and Data
 [Back to Top](#contents)
