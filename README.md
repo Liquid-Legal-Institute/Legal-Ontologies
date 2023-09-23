@@ -55,6 +55,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [European Union - Official Journal Electronic Exchange Protocol](https://op.europa.eu/de/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/ojeep)
 - [European Union - Digital Europa Thesaurus](https://op.europa.eu/de/web/eu-vocabularies/det)
 - [European Union - eProcurement](https://op.europa.eu/de/web/eu-vocabularies/e-procurement)
+- [Akoma Ntoso](http://www.akomantoso.org/?page_id=47)
 - [Akoma Ntoso for European Union](https://op.europa.eu/en/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/akn4eu)
 - [United Nations System Document Ontology (UNDO)](https://unsceb-hlcm.github.io/onto-undo/index.html)
 - [Book Interchange Tag Set: JATS Extension](https://jats.nlm.nih.gov/extensions/bits/)
