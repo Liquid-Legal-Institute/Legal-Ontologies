@@ -73,6 +73,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Legal Document ML](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=legaldocml)
 - [Legal Rule ML](http://docs.oasis-open.org/legalruleml/legalruleml-core-spec/v1.0/legalruleml-core-spec-v1.0.html)
 - [Public Contracts Ontology](https://github.com/opendatacz/public-contracts-ontology)
+- [Universal Business Language](https://docs.oasis-open.org/ubl/UBL-2.4.html) (XML templates for business documents intended to be usable as legally binding)
 - [UK Parliament Ontologies](https://ukparliament.github.io/ontologies/) (incl. agency, business item, contact point, contribution, description, election, formal body, formal body affiliation, government organization, house membership, laying, legislation, making available, parliamentary bloc, peerage, petition, place, procedure, procedure step annotation, publisher, question and answer, record, standing order, submission, tabling, time period, treaty, written statement ontologies)
 - [good relations](http://www.heppnetz.de/ontologies/goodrelations/) not strictly legal, but covering transactions and therefore potentially helpful: ontology covering product, price, store, and company data
 - [ISDA International Swaps and Derivatives Association Taxonomy v2](https://www.isda.org/2019/09/04/isda-taxonomy-2-0-finalized/)
